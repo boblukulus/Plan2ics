@@ -1,0 +1,7 @@
+JSON with Times
+
+PAP:
+1. Read .htm
+2. Get last update of the file
+3. List all Weeks with subjects with checkboxes (Also Display warning that subjects may change)
+4. Create .ics with subjects according to times
